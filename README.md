@@ -26,7 +26,7 @@ Welcome to my Github page!
 - Be motivated and passionate
 
 #### :computer: Programming languages and tools: 
-<p align="right" margin-left=200px>
+<p align="right" margin-left=500px>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=yanzisu68&show_icons=true&hide_border=true" />
 </p>
 <p align="left">
