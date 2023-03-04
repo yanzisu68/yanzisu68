@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 ### Hi there 👋 
 ### This is Yanzi Su!
 <!-- 
@@ -5,7 +7,6 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
 </div> -->
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yanzisu68)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yanzisu)
