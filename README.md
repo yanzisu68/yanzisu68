@@ -14,26 +14,37 @@ Welcome to my Github page!
 - Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon* -->
 
 #### :muscle: Things I am challenging myself with:
-- Waking up earlier to make good use of the day
-- Coding at least 4 hours a day
+- Learning new things at least 1 hour a day
+- Reading at least 30 mins a day
 - Exercising 3 days a week
-- Improving my CV with some education apart from university
+- Be motivated and passionate
 
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/golang/golang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<code><image width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://reactnative.dev/img/header_logo.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jenkins/jenkins-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/grafana/grafana-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"></code>
+<!-- <code><img width="10%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"></code> -->
 </p>
 
 <!-- <sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub> -->
