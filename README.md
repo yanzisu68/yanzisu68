@@ -40,3 +40,5 @@ Welcome to my Github page!
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 </p>
+
+<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
